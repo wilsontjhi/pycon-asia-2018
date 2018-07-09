@@ -1,6 +1,9 @@
 # Pycon Asia 2018
 This is a supplementary python scripts for my presentation for Pycon Asia 2018 in Singapore. The presentation is titled "Maintaining robust and maintainable concurrent program".
 
+## Video
+The recording of the session can be found in [here](https://youtu.be/DJnUctSQSGw)
+
 ## Instructions
 1. The python scripts were written and tested using Python 3.6.4 version.
 2. There is only 1 requirement (colorama) specified in the requirements.txt. This is to visualize the kue lapis.
